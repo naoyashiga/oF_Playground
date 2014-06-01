@@ -2,7 +2,7 @@
 //  Particle.cpp
 //  myChasing
 //
-//  Created by 杉本 直也 on 2014/05/29.
+//  Created by naoyashiga on 2014/05/29.
 //
 //
 
